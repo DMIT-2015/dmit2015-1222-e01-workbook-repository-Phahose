@@ -1,4 +1,4 @@
-package ca.nait.dmit.dmit2015azurewebapp;
+package main.java.ca.nait.dmit.dmit2015azurewebapp;
 
 import java.io.*;
 
